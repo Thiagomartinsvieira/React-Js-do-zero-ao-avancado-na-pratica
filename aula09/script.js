@@ -1,2 +1,2 @@
 var nome = localStorage.nome;
-console.log(nome);~
+console.log(nome);
